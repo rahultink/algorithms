@@ -1,5 +1,4 @@
-import java.util.*;
-import java.io.*;
+import java.util.Scanner;
 
 //Write your code here
 
@@ -19,8 +18,6 @@ class Calculator {
         return (int) Math.pow(n, p);
     }
 }
-
-
 
 
 class Solution5 {

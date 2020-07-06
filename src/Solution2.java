@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 abstract class Book {
     String title;
